@@ -1,0 +1,10 @@
+# Node
+/node_modules
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/coverage
+/typings
+
+
